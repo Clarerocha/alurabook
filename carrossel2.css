@@ -1,0 +1,29 @@
+.descricao__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+    line-height: 24px;
+    text-align: justify;
+    padding-right: 0.5em;
+    
+}
+
+.estrelinhas {
+  margin-top: 1em;
+}
+
+.descricao__noAutora {
+
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    margin: 0.5em 0;
+}
+.descricao__texto {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+
+}
